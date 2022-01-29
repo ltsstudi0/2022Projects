@@ -1,5 +1,5 @@
 # 2022Projects
-Here's my annually Project.2022 is really an significant year,I will update almost I get progress in something.
+Here's my annually Project.2022 is really a significant year,I will update almost I get progress in something.
 
 1.Of cource is CoCloud
 CoCloud is my first project.Aiming to reduce people's waiting time for downloading things in the internet and give users a large space to save their files through almost all devices(Contribute By Powerful WebDav).We has opened last year and now it's working perfectly.

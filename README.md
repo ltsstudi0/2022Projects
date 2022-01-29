@@ -23,3 +23,7 @@ At last I want to say CoC begin with Netdisk,it's says we are not Aiming to Earn
 OK,Have a Nice Day.
 
 CoC.Inc CEO LTS
+
+
+All things Under GPL3.0
+

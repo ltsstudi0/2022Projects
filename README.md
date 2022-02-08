@@ -2,6 +2,10 @@
 
 **WE OPEN OUR TODO LIST!**
 
+**We build our video/music stream bot!**
+
+Test it in @gfwservice telegram
+
 HERE!
 
 https://maddening-snail-03c.notion.site/48e2909d563744faa94fc27eebe2ed85?v=b3d7e57d09494362b9bdf2e97dc06858
